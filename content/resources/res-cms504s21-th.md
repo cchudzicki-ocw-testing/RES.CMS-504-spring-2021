@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/sorting-truth-from-fiction-civic-online-reasoning/res-cms504s21-th.png
+file: /courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021/res-cms504s21-th.png
 file_type: image/png
 image_metadata:
   caption: 'With widespread misinformation, evaluating online information has become

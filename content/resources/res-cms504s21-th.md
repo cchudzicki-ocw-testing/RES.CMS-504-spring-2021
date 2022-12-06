@@ -5,8 +5,10 @@ draft: false
 file: /courses/sorting-truth-from-fiction-civic-online-reasoning/res-cms504s21-th.png
 file_type: image/png
 image_metadata:
-  caption: ''
-  credit: ''
+  caption: 'With widespread misinformation, evaluating online information has become
+    a more complicated task. (Courtesy of [Nenad Stojkovic](https://www.flickr.com/photos/nenadstojkovic/51719363882)
+    on Flickr. License: CC BY.)'
+  credit: '(Courtesy of Nenad Stojkovic on Flickr. License: CC BY.)'
   image-alt: A woman sitting at a table with a laptop reading a book with her right
     hand with her left hand holding at a notebook.
 learning_resource_types: []
@@ -24,3 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+With widespread misinformation, evaluating online information has become a more complicated task. (Courtesy of [Nenad Stojkovic](https://www.flickr.com/photos/nenadstojkovic/51719363882) on Flickr. License: CC BY.)

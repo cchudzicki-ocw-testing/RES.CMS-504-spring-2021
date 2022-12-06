@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: A woman sitting at a table with a laptop reading a book with her right
+    hand with her left hand holding at a notebook.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
